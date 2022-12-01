@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--******************************************-->
+<!--   File    : Invertor2.fsproj             -->
+<!--   Format  : TopoR Project file           -->
+<!--   Version : 2                            -->
+<!--   Program : TopoR Lite 7.0.18508         -->
+<!--   Date    : Wednesday, November 30, 2022 -->
+<!--   Time    : 20:11                        -->
+<!--******************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{93E69E6C-01A6-4AA1-8FCD-E928379EA457}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\Inventor2.fsx" isopened="0" dateChange="2022-11-30 19:53:57"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="true">
+         <File path=".\autoroute_221125161046\Inventor2_629-0s.fsb" isopened="0" dateChange="2022-11-25 16:10:46"/>
+         <File path=".\autoroute_221125162421\Inventor2_629-0s.fsb" isopened="0" dateChange="2022-11-25 16:24:23"/>
+         <File path=".\autoroute_221125162327\Inventor2_633-0s.fsb" isopened="0" dateChange="2022-11-25 16:23:34"/>
+         <File path=".\autoroute_221125162135\Inventor2_634-0s.fsb" isopened="0" dateChange="2022-11-25 16:21:50"/>
+         <File path=".\autoroute_221125162519\Inventor2_636-0s.fsb" isopened="0" dateChange="2022-11-25 16:25:21"/>
+         <File path=".\autoroute_221125162230\Inventor2_637-0s.fsb" isopened="0" dateChange="2022-11-25 16:22:31"/>
+         <File path=".\autoroute_221125161503\Inventor2_646-0s.fsb" isopened="0" dateChange="2022-11-25 16:15:04"/>
+         <File path=".\autoroute_221125162048\Inventor2_655-0s.fsb" isopened="0" dateChange="2022-11-25 16:20:51"/>
+         <File path=".\autoroute_221125161305\Inventor2_659-0s.fsb" isopened="0" dateChange="2022-11-25 16:13:07"/>
+         <File path=".\autoroute_221125161954\Inventor2_664-0s.fsb" isopened="0" dateChange="2022-11-25 16:19:56"/>
+         <File path=".\autoroute_221125161902\Inventor2_673-0s.fsb" isopened="0" dateChange="2022-11-25 16:19:04"/>
+         <File path=".\autoroute_221125161550\Inventor2_679-0s.fsb" isopened="0" dateChange="2022-11-25 16:16:00"/>
+         <File path=".\autoroute_221125161831\Inventor2_684-0s.fsb" isopened="0" dateChange="2022-11-25 16:18:37"/>
+         <File path=".\autoroute_221128120220\Inventor2_1028-10s.fsb" isopened="0" dateChange="2022-11-28 12:02:36"/>
+         <File path=".\autoroute_221128120139\Inventor2_1122-8s.fsb" isopened="0" dateChange="2022-11-28 12:01:45"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="C:\Users\34404\OneDrive\Рабочий стол\Gauss\Inventor2.dsn"/>
+      </Specctra>
+   </Import>
+</Project>
