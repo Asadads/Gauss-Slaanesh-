@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--******************************************-->
+<!--   File    : Gauss pincond.fsproj         -->
+<!--   Format  : TopoR Project file           -->
+<!--   Version : 2                            -->
+<!--   Program : TopoR Lite 7.0.18508         -->
+<!--   Date    : Wednesday, November 30, 2022 -->
+<!--   Time    : 21:05                        -->
+<!--******************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{9C63C0AA-FEFB-4EAA-9817-AF4769BF5592}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\Gausss pincond.fsx" isopened="1" dateChange="2022-11-30 20:21:08"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="true">
+         <File path=".\autoroute_221119192529\Gausss pincond_147-0s.fsb" isopened="0" dateChange="2022-11-19 19:25:29"/>
+         <File path=".\autoroute_221119193459\Gausss pincond_151-0s.fsb" isopened="0" dateChange="2022-11-19 19:35:03"/>
+         <File path=".\autoroute_221125141915\Gausss pincond_153-0s.fsb" isopened="0" dateChange="2022-11-25 14:19:16"/>
+         <File path=".\autoroute_221128133312\Gausss pincond_154-0s.fsb" isopened="0" dateChange="2022-11-28 13:33:13"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="C:\Users\34404\OneDrive\Рабочий стол\Gauss\Gausss pincond.dsn"/>
+      </Specctra>
+   </Import>
+</Project>
